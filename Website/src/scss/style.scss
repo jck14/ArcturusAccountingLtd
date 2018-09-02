@@ -1,0 +1,13 @@
+// style.scss
+
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap-compass";
+
+
+$bg-color: #333;
+$color: #fff;
+
+body {
+    background: $bg-color;
+    color:$color;
+}
